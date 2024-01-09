@@ -6,3 +6,4 @@
 - 🌱 Actualmente estoy aprendiendo  **java, HTML5 and CSS3**
 
 - ⚡ Lo que me gusta hacer actualmente: **Estudiar,pogramar y leer**
+- [![My Skills](https://skillicons.dev/icons?i=js,cpp,html)](https://skillicons.dev)
