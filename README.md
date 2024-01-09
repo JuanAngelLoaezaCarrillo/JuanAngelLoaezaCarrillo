@@ -11,5 +11,3 @@
 - 🌱 Actualmente estoy aprendiendo  **java, HTML5 and CSS3**
 
 - ⚡ Lo que me gusta hacer actualmente: **Estudiar,pogramar y leer**
-- [![My Skills](https://skillicons.dev/icons?i=js,cpp,html)](https://skillicons.dev)
-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Juan%20Angel&theme=carbonfox&hide_border=FALSO&mode=weekly)](https://git.io/streak-stats)
