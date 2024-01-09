@@ -11,5 +11,6 @@
 - 🌱 Actualmente estoy aprendiendo  **java, HTML5 and CSS3**
 
 - ⚡ Lo que me gusta hacer actualmente: **Estudiar,pogramar y leer**
+- 📫 Comunicate conmigo a travez de : loaezacarrillo@gmail.com
 
 -<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Juan%20Angel&theme=dracula&hide_border=&mode=weekly" alt="GitHub Streak" /></a>
